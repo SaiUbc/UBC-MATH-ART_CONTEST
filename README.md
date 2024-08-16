@@ -12,6 +12,7 @@ This project celebrates the collective community of UBC by representing each ind
 
 ![UBC Math Annex Building](UBC.png)
 
+![Demo GIF](UBC-art-demo.gif)
 
 
 ## How It Works
@@ -26,5 +27,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Thanks to the UBC community for inspiring this project.
-- Special thanks to all contributors and supporters who helped make this project possible.
+- Thanks to the UBC Math Department for hosting this contest.
+
