@@ -8,7 +8,7 @@ This project transforms a JPEG image of the UBC Math Annex Building into a uniqu
 
 ## Purpose
 
-This project celebrates the collective community of UBC by representing each individual through the repeated use of the UBC word in the ASCII image. It showcases the intersection of mathematics, art, and community, reflecting the vibrant and diverse learning environment at UBC.
+This project celebrates the collective community of UBC by representing each individual through the repeated use of the UBC word in the ASCII image and also captures and brings attention to one of my favourite buildings on campus. I've walked by the Math Annex Building many times throughout my undergrad and even attended a few lectures in it. My favourite one being Math 220: Introduction to Mathematical Proofs by Prof. Andrew Rechnitzer. I've also participated in a few events hosted by the Undergraduate Mathematics Society in this very building and made a few friends here too! 😊
 
 ![UBC Math Annex Building](UBC.png)
 
@@ -18,8 +18,8 @@ This project celebrates the collective community of UBC by representing each ind
 ## How It Works
 
 1. **Image Conversion:** A JPEG image of the UBC Math Annex Building is processed and converted into an ASCII art format.
-2. **Word Representation:** The ASCII image is created using the word "UBC" repeated 92,070 times, ensuring each character in the image represents a member of the UBC community.
-3. **Output:** The result is a visually engaging ASCII representation of the Math Annex Building, made up entirely of the word "UBC."
+2. **Word Representation:** The ASCII image is created using the word "UBC" repeated exactly 92,070 times, ensuring each character in the image represents a member of the UBC community.
+3. **Output:** The result is a visually engaging ASCII representation of the Math Annex Building, made up entirely of the word "UBC" in a PDF format with the given specifications of the ART contest.
 
 ## License
 
@@ -27,5 +27,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Thanks to the UBC Math Department for hosting this contest.
+- Thanks to the UBC Math Department for hosting this art contest!
 
