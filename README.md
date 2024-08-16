@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The UBC-MATH-ART_CONTEST project transforms a JPEG image of the UBC Math Annex Building into a unique ASCII art representation. In this creative endeavor, the word "UBC" is used as the building's texture, with each instance of "UBC" symbolizing one of the 92,070 students, staff, and faculty across the Vancouver and Okanagan campuses. This artwork pays homage to the enriching experiences and knowledge gained at UBC.
+This project transforms a JPEG image of the UBC Math Annex Building into a unique ASCII art representation. In this creative endeavor, the word "UBC" is used as the building's texture, with each instance of "UBC" symbolizing one of the 92,070 students, staff, and faculty across the Vancouver and Okanagan campuses. This artwork pays homage to the enriching experiences and knowledge gained at UBC. This is my submission for the UBC Math Artwork Contest which happened between August 2nd, 2024 and August 16th, 2024
 
 
 
