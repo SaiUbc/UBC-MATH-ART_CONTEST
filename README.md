@@ -1,4 +1,4 @@
-# UBC-MATH-ART_CONTEST
+# UBC MATH ART CONTEST 2024
 
 ## Project Overview
 
