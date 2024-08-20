@@ -10,9 +10,9 @@ This project transforms a JPEG image of the UBC Math Annex Building into a uniqu
 
 This project celebrates the collective community of UBC by representing each individual through the repeated use of the UBC word in the ASCII image and also captures and brings attention to one of my favourite buildings on campus. I've walked by the Math Annex Building many times throughout my undergrad and even attended a few lectures in it. My favourite one being Math 220: Introduction to Mathematical Proofs by Prof. Andrew Rechnitzer. I've also participated in a few events hosted by the Undergraduate Mathematics Society in this very building and made a few friends here too! 😊
 
-![UBC Math Annex Building](UBC.png)
+![UBC Math Annex Building](pics/UBC.png)
 
-![Demo GIF](UBC-art-demo.gif)
+![Demo GIF](pics/UBC-art-demo.gif)
 
 
 ## How It Works
